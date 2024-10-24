@@ -1,2 +1,2 @@
 # esportstournaments
-Assingement 1
+Assignment 1
